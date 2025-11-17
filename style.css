@@ -1,0 +1,70 @@
+style.css
+ <style>
+    /* Basic page styling */
+    body {
+      background-color: #f2f2f2;
+      font-family: Arial, sans-serif;
+      color: #333;
+      margin: 0;
+      padding: 0;
+      text-align: center;
+    }
+
+    h1 {
+      background-color: #000;
+      color: #fff;
+      padding: 20px;
+      margin: 0;
+    }
+
+    img {
+      width: 300px;
+      border-radius: 10px;
+      margin-top: 20px;
+    }
+
+    h2 {
+      color: #d32f2f;
+      margin-top: 15px;
+    }
+
+    button {
+      background-color: #ff4d4d;
+      color: white;
+      border: none;
+      padding: 10px 15px;
+      margin-left: 10px;
+      cursor: pointer;
+      border-radius: 5px;
+    }
+
+    button:hover {
+      background-color: #cc0000;
+    }
+
+    p {
+      font-size: 18px;
+      margin: 20px auto;
+      width: 70%;
+      line-height: 1.5;
+    }
+
+    h3 {
+      color: #2e7d32;
+      margin-top: 30px;
+    }
+
+    b {
+      display: block;
+      margin: 5px 0;
+      color: #444;
+    }
+
+    hr {
+      border: none;
+      height: 3px;
+      background-color: #ff4d4d;
+      margin: 0;
+    hr 
+    }
+  </style>
